@@ -26,6 +26,7 @@ h1, h2, h3 {
 }
 
 h1 {
+    font-style: oblique;
     font-size: 4em;
     font-weight: 900;
     text-shadow: 0.02em 0.04em #403D58;
@@ -36,7 +37,7 @@ h2 {
     border-bottom: 0.1em solid #23aca5;
     padding: 0.25em o.25em 0.75em;
     margin: 1.6em 0;
-    text-shadow: 0.05em 0.05em 0.1em deeppink;
+    text-shadow: 0.05em 0.05em 0.1em blueviolet;
 
 }
 
